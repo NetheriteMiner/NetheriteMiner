@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am NetheriteMiner, currently a student majoring in Computer Science very soon!
-Pronouns: He/Him and They/Them. You can use just one pronoun set if you prefer but I appreciate variety.
-Recently, I've enjoyed worked on SkyHanni, a Minecraft modification for Hypixel Skyblock. I'm very proud of my contributions there.
+- I am NetheriteMiner, currently a student majoring in Computer Science very soon!
+- Pronouns: He/Him and They/Them. You can use just one pronoun set if you prefer but I appreciate variety.
+- Recently, I've enjoyed worked on SkyHanni, a Minecraft modification for Hypixel Skyblock. I'm very proud of my contributions there.
+- Furthermore, I really like connecting APIs together to do interesting things with them. My biggest project related to this would be my Discord bot, Ultimate Nerd. Ultimate Nerd has a command to play music and the queue gets sent to the GitHub Pages website hosted right here, on this repository! 
 <!--
 **NetheriteMiner/NetheriteMiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
