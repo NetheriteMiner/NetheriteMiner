@@ -1,0 +1,10 @@
+html, body {
+	background-color: black;
+	color: white;
+}
+p {
+	font-family: sans-serif;
+}
+a {
+	color: #1c7dac;
+}
