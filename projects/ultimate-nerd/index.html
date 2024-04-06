@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Ultimate Nerd Live Viewer</title>
+	<link href="../../style.css" rel="stylesheet" type="text/css" />
+	<link href="./style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div id="rectangle">
+		<h4>Ultimate Nerd Live Viewer</h4>
+		<div>Refresh Rate: <button onclick="setSpeed(0);">Stop Updating</button><button onclick="setSpeed(120000);">Extra Extra Low Speed</button><button onclick="setSpeed(60000);">Extra Low Speed</button><button onclick="setSpeed(30000);">Low Speed</button><button onclick="setSpeed(10000);">Normal Speed</button></div>
+		<div id="loop">Loading...</div>
+		<div id="nowPlaying"></div>
+		<div id="queue">If there is no error message in 30 seconds, please refresh or run /report</div>		
+	</div>
+	<script src="getData.js"></script>
+</body>
+
+</html>

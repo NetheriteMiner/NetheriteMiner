@@ -1,0 +1,13 @@
+#rectangle {
+	width: 60vw;
+	height: 80vh;
+	margin-top: 5vh;
+	margin-left: 20vw;
+	border: 1px solid red;
+	border-radius: 10px;
+	padding: 30px;
+	font-family: sans-serif;
+}
+h4 {
+	text-align: center;
+}
