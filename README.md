@@ -6,6 +6,7 @@
 - Now, I am currently working on spigot/paper plugin development to make a Minecraft server plugin for my friends and I.
 - Furthermore, I really like connecting APIs together to do interesting things with them. My biggest project related to this would be my Discord bot, Ultimate Nerd. Ultimate Nerd has a command to play music and the queue gets sent to a website that was formerly hosted on Replit. Unfortunately, this is no longer possible but the code still exists! I now host and maintain it on my own private linux server.
 - I am also dabbling in making a game with Microsoft's MakeCode Arcade
+- My computer runs a dual boot setup of mainly Linux Mint but I have Windows for when wine (the program) doesn't cut it
 - And finally, I am currently learning
     - C
     - Java fundamentals I should have learned a long time ago but never did
