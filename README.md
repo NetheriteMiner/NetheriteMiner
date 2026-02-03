@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - I am NetheriteMiner, currently a student majoring in Computer Science!
-- Pronouns: He/Him and They/Them. You can use just one pronoun set if you prefer but I appreciate variety.
 - Previously, I've enjoyed worked on SkyHanni, a Minecraft modification for Hypixel Skyblock.
 - Now, I am currently working on spigot/paper plugin development to make a Minecraft server plugin for my friends and I.
 - Furthermore, I really like connecting APIs together to do interesting things with them. My biggest project related to this would be my Discord bot, Ultimate Nerd. Ultimate Nerd has a command to play music and the queue gets sent to a website that was formerly hosted on Replit. Unfortunately, this is no longer possible but the code still exists! I now host and maintain it on my own private linux server.
